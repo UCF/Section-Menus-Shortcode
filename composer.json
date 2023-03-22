@@ -1,0 +1,8 @@
+{
+    "name": "ucf/section-menus-shortcode",
+    "description": "Provides shortcodes for generating a sticky menu on a page, populated automatically based on sections on the page or manually with custom links.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}

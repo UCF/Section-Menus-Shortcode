@@ -17,6 +17,10 @@ Head over to the [Section Menus Shortcode plugin wiki](https://github.com/UCF/Se
 
 ## Changelog ##
 
+### 1.1.4 ###
+Enhancements:
+* Added composer file.
+
 ### 1.1.3 ###
 Enhancements:
 * Added late enqueuing to frontend plugin JS, so only pages that use a section menu will load the relevant JS file

@@ -2,8 +2,8 @@
 Contributors: ucfwebcom
 Tags: ucf, section, menus
 Requires at least: 4.7.3
-Tested up to: 5.2.1
-Stable tag: 1.1.3
+Tested up to: 6.1
+Stable tag: 1.1.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/copyleft/gpl-3.0.html
 
@@ -23,6 +23,10 @@ Head over to the [Section Menus Shortcode plugin wiki](https://github.com/UCF/Se
 
 
 == Changelog ==
+
+= 1.1.4 =
+Enhancements:
+* Added composer file.
 
 = 1.1.3 =
 Enhancements:
